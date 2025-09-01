@@ -1,2 +1,2 @@
-#스택(Stack) 큐(Queue), 덱 (Deque)
+# 스택(Stack) 큐(Queue), 덱 (Deque)
   

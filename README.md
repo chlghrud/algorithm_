@@ -6,7 +6,7 @@
 자료를 효율적으로 관리하고 사용하기 위한 구조입니다.
 
 - **스택 (Stack) & 큐 (Queue) & 덱(Deque)**
-  - 개념:[스택(Stack) 큐(Queue) 덱 (Deque)](./docs/스택(Stack) 큐(Queue) 덱 (Deque).md)
+  - 개념:[스택(Stack) 큐(Queue) 덱 (Deque)](./docs/Stack-Queue-Deque.md)
   - **관련 문제 풀이**
 
 ---
